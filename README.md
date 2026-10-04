@@ -10,17 +10,58 @@ My GitHub is a mix of professional projects, technical experiments and applicati
 
 ## 🧰 Tech & Tools
 
-**Systems & IT**  
-Windows · Active Directory · PowerShell · Troubleshooting · Support workflows
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-**Backend**  
-C# · .NET · ASP.NET Web API · REST APIs · JWT Authentication
+### 🖥️ Systems & IT
 
-**Frontend**  
-Angular · TypeScript · JavaScript · HTML · CSS
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-6C757D?style=for-the-badge&logo=wrench&logoColor=white)
+![Support Workflows](https://img.shields.io/badge/Support%20Workflows-20C997?style=for-the-badge&logo=workflow&logoColor=white)
 
-**Data & Tools**  
-SQL Server · Git · GitHub · Visual Studio · VS Code · Node.js · npm
+   </td>
+   <td valign="top" width="50%">
+
+### ⚙️ Backend
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0D6EFD?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT Authentication](https://img.shields.io/badge/JWT%20Authentication-DC3545?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+   </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🎨 Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+   </td>
+   <td valign="top" width="50%">
+
+### 🗄️ Data & Tools
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+   </td>
+  </tr>
+</table>
 
 ---
 
