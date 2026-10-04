@@ -14,6 +14,14 @@ My GitHub is a mix of professional experiments, learning projects, and applicati
 
 ## Selected projects
 
+### ♟️ Europchess
+
+Website for **Europchess**, the chess club of the European institutions community in Brussels.
+
+I rebuilt and maintain the website, including the club information architecture, activities and tournament pages, board history, responsive interface, dark/light mode and content management features.
+
+🌐 [europchess.eu](https://europchess.eu)
+
 ### 🗳️ EPVoting
 A voting-system project built around a complete application workflow.
 
