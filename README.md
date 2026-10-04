@@ -1,58 +1,80 @@
 # Hi, I'm Francesco Bigi 👋
 
+### IT Support · Systems · Web Development · Automation
+
 I work in IT support and build practical software, automation tools, and web applications.
 
-My GitHub is a mix of professional experiments, learning projects, and applications built around real-world problems. I tend to prefer things that are useful, maintainable, and actually work over projects that exist mainly to collect framework logos.
+My GitHub is a mix of professional projects, technical experiments and applications built around real-world problems. I prefer useful, maintainable solutions over projects that mainly exist to collect framework logos.
 
-## What I work with
+---
 
-- **IT & systems:** Windows, Active Directory, PowerShell, troubleshooting and support workflows
-- **Backend:** C#, .NET, ASP.NET Web API, REST APIs, JWT authentication
-- **Frontend:** Angular, JavaScript, TypeScript, HTML, CSS
-- **Data:** SQL / Microsoft SQL Server
-- **Tools:** Git, GitHub, Visual Studio, VS Code, Node.js / npm
+## 🧰 Tech & Tools
 
-## Selected projects
+**Systems & IT**  
+Windows · Active Directory · PowerShell · Troubleshooting · Support workflows
+
+**Backend**  
+C# · .NET · ASP.NET Web API · REST APIs · JWT Authentication
+
+**Frontend**  
+Angular · TypeScript · JavaScript · HTML · CSS
+
+**Data & Tools**  
+SQL Server · Git · GitHub · Visual Studio · VS Code · Node.js · npm
+
+---
+
+## 🚀 Featured Projects
 
 ### ♟️ Europchess
 
-Website for **Europchess**, the chess club of the European institutions community in Brussels.
+**Official website for Europchess, the chess club of the European institutions community in Brussels.**
 
-I rebuilt and maintain the website, including the club information architecture, activities and tournament pages, board history, responsive interface, dark/light mode and content management features.
+I rebuilt and maintain the website, including its information architecture, activities and tournament pages, board history, responsive interface, dark/light mode and content-management features.
 
-🌐 [europchess.eu](https://europchess.eu)
+[🌐 Visit europchess.eu](https://europchess.eu)
 
-### 🗳️ EPVoting
-A voting-system project built around a complete application workflow.
+<br>
 
-[View repository](https://github.com/newbreaker12/EPVoting)
+<a href="https://github.com/newbreaker12/EPVoting">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=newbreaker12&repo=EPVoting&hide_border=true" />
+</a>
+<a href="https://github.com/newbreaker12/EPVOTE_Angular">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=newbreaker12&repo=EPVOTE_Angular&hide_border=true" />
+</a>
 
-### 🅰️ EPVOTE Angular
-Angular frontend work related to the voting-system project.
+<a href="https://github.com/newbreaker12/JwtAuthAspNetWebAPI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=newbreaker12&repo=JwtAuthAspNetWebAPI&hide_border=true" />
+</a>
+<a href="https://github.com/newbreaker12/voting_system_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=newbreaker12&repo=voting_system_app&hide_border=true" />
+</a>
 
-[View repository](https://github.com/newbreaker12/EPVOTE_Angular)
+---
 
-### 🔐 JWT Auth ASP.NET Web API
-A focused ASP.NET Web API project exploring JWT-based authentication.
+## 🔭 Currently Exploring
 
-[View repository](https://github.com/newbreaker12/JwtAuthAspNetWebAPI)
-
-## Currently exploring
-
-- Better automation for repetitive IT tasks
+- Automation for repetitive IT tasks
 - Modern web application architecture
 - API integration and authentication
 - Practical uses of AI-assisted development
 
-## GitHub activity
+---
 
-![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbreaker12&show_icons=true&hide_border=true&rank_icon=github)
+## 📊 GitHub Activity
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=newbreaker12&layout=compact&hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=newbreaker12&show_icons=true&hide_border=true&rank_icon=github" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbreaker12&layout=compact&hide_border=true" />
+</p>
 
 ---
 
-### Find me here
+## 🔗 Find Me Online
 
-- 🌐 [francescobigi.com](https://francescobigi.com)
-- 💻 [github.com/newbreaker12](https://github.com/newbreaker12)
+🌐 [francescobigi.com](https://francescobigi.com)  
+♟️ [europchess.eu](https://europchess.eu)  
+💻 [github.com/newbreaker12](https://github.com/newbreaker12)
