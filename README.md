@@ -1,10 +1,10 @@
 # Hi, I'm Francesco Bigi 👋
 
-### IT Support · Systems · Web Development · Automation
+### IT Support · Systems Automation · Web Development · Practical Software
 
-I work in IT support and build practical software, automation tools, and web applications.
+I work in IT support and build practical software, internal tools, automation workflows and modern web applications.
 
-My GitHub is a mix of professional projects, technical experiments and applications built around real-world problems. I prefer useful, maintainable solutions over projects that mainly exist to collect framework logos.
+My projects usually start from a real problem: simplifying support work, publishing useful information, improving a workflow or building something that someone will actually use.
 
 ---
 
@@ -19,45 +19,44 @@ My GitHub is a mix of professional projects, technical experiments and applicati
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-6C757D?style=for-the-badge&logo=wrench&logoColor=white)
-![Support Workflows](https://img.shields.io/badge/Support%20Workflows-20C997?style=for-the-badge&logo=workflow&logoColor=white)
+![LDAP](https://img.shields.io/badge/LDAP-005571?style=for-the-badge)
+![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
    </td>
    <td valign="top" width="50%">
 
-### ⚙️ Backend
+### 🌐 Modern Web
 
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0D6EFD?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT Authentication](https://img.shields.io/badge/JWT%20Authentication-DC3545?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
    </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
 
-### 🎨 Frontend
+### ⚙️ Backend & Data
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0D6EFD?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-DC3545?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
    </td>
    <td valign="top" width="50%">
 
-### 🗄️ Data & Tools
+### 🚀 Platforms & Tooling
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
    </td>
   </tr>
@@ -67,38 +66,111 @@ My GitHub is a mix of professional projects, technical experiments and applicati
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ IT Support Console
+
+A PowerShell 5.1 WinForms application designed for enterprise IT support workflows.
+
+It brings together user, group, mailing-list, shared-mailbox, computer and printer information through LDAP/WMI, with a modular MVC-style architecture, test tooling and controlled administrative actions.
+
+**Focus:** PowerShell · Active Directory · LDAP · WinForms · WMI
+
+</td>
+<td width="50%" valign="top">
+
 ### ♟️ Europchess
 
-**Official website for Europchess, the chess club of the European institutions community in Brussels.**
+Official website for **Europchess**, a chess club connected to the European institutions community in Brussels.
 
-I rebuilt and maintain the website, including its information architecture, activities and tournament pages, board history, responsive interface, dark/light mode and content-management features.
+Rebuilt with a modern React/TypeScript stack, responsive design, accessibility, privacy-conscious architecture and structured club content.
 
-[🌐 Visit europchess.eu](https://europchess.eu)
+**Stack:** TanStack Start · React · TypeScript · Vite
 
-<br>
+🌐 [europchess.eu](https://europchess.eu)
 
-<a href="https://github.com/newbreaker12/EPVoting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=newbreaker12&repo=EPVoting&hide_border=true" />
-</a>
-<a href="https://github.com/newbreaker12/EPVOTE_Angular">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=newbreaker12&repo=EPVOTE_Angular&hide_border=true" />
-</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Letteravontuur
+
+An educational reading application designed for learning to read in Belgian Dutch.
+
+It combines interactive exercises, audio-first learning, multilingual parent controls and local-first data handling.
+
+**Stack:** TypeScript · React · Vite · Audio tooling
+
+🌐 [Open the app](https://letteravontuur.lovable.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Afriklitt
+
+A modern publishing platform for African literature, events, interviews and cultural content.
+
+The site uses a headless CMS workflow so content can be managed independently from the code and automatically published as a fast static website.
+
+**Stack:** Astro · TypeScript · Sanity CMS · Netlify
+
+🌐 [Visit the current site](https://afriklit.netlify.app)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 francescobigi.com
+
+My personal portfolio and project showcase.
+
+Built as a modern React application with reusable UI components and a maintainable deployment workflow.
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS · shadcn/ui
+
+🌐 [francescobigi.com](https://francescobigi.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗳️ EP Voting Projects
+
+A collection of earlier projects exploring voting-system architecture across backend, web and client applications.
+
+**Technologies:** C# · .NET · Angular · Dart
+
+[EPVoting](https://github.com/newbreaker12/EPVoting) · [EPVOTE Angular](https://github.com/newbreaker12/EPVOTE_Angular) · [Voting App](https://github.com/newbreaker12/voting_system_app)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 Public Code & Experiments
 
 <a href="https://github.com/newbreaker12/JwtAuthAspNetWebAPI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=newbreaker12&repo=JwtAuthAspNetWebAPI&hide_border=true" />
 </a>
-<a href="https://github.com/newbreaker12/voting_system_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=newbreaker12&repo=voting_system_app&hide_border=true" />
+<a href="https://github.com/newbreaker12/EPVoting">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=newbreaker12&repo=EPVoting&hide_border=true" />
 </a>
 
 ---
 
-## 🔭 Currently Exploring
+## 🔭 What I'm Working On
 
-- Automation for repetitive IT tasks
-- Modern web application architecture
-- API integration and authentication
-- Practical uses of AI-assisted development
+- Building internal IT support and directory tooling
+- Developing maintainable React and TypeScript applications
+- Working with headless CMS and static publishing workflows
+- Improving deployment, testing and automation around real projects
+- Exploring practical AI-assisted development workflows
 
 ---
 
