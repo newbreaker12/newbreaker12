@@ -189,6 +189,9 @@ A collection of earlier projects exploring voting-system architecture across bac
 ## 🔗 Find Me Online
 
 🌐 [francescobigi.com](https://francescobigi.com)  
-♟️ [europchess.eu](https://europchess.eu)  
-🌍 [afriklitt.com](https://afriklitt.com) *(Coming soon)*  
 💻 [github.com/newbreaker12](https://github.com/newbreaker12)
+
+## 🌍 Live Web Projects
+
+♟️ [europchess.eu](https://europchess.eu)  
+🌍 [afriklitt.com](https://afriklitt.com) *(Coming soon)*
