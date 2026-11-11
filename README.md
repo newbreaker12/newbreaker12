@@ -156,10 +156,10 @@ A collection of earlier projects exploring voting-system architecture across bac
 ## 🧪 Public Code & Experiments
 
 <a href="https://github.com/newbreaker12/JwtAuthAspNetWebAPI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=newbreaker12&repo=JwtAuthAspNetWebAPI&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=newbreaker12&repo=JwtAuthAspNetWebAPI&hide_border=true" />
 </a>
 <a href="https://github.com/newbreaker12/EPVoting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=newbreaker12&repo=EPVoting&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=newbreaker12&repo=EPVoting&hide_border=true" />
 </a>
 
 ---
@@ -177,11 +177,11 @@ A collection of earlier projects exploring voting-system architecture across bac
 ## 📊 GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=newbreaker12&show_icons=true&hide_border=true&rank_icon=github" />
+  <img src="https://github-stats-extended.vercel.app/api?username=newbreaker12&show_icons=true&hide_border=true&rank_icon=github" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbreaker12&layout=compact&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=newbreaker12&layout=compact&hide_border=true" />
 </p>
 
 ---
