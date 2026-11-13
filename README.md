@@ -70,13 +70,15 @@ My projects usually start from a real problem: simplifying support work, publish
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ IT Support Console
+### 👨‍💻 francescobigi.com
 
-A PowerShell 5.1 WinForms application designed for enterprise IT support workflows.
+My personal portfolio and project showcase.
 
-It brings together user, group, mailing-list, shared-mailbox, computer and printer information through LDAP/WMI, with a modular MVC-style architecture, test tooling and controlled administrative actions.
+Built as a modern React application with reusable UI components and a maintainable deployment workflow.
 
-**Focus:** PowerShell · Active Directory · LDAP · WinForms · WMI
+**Stack:** React · TypeScript · Vite · Tailwind CSS · shadcn/ui
+
+🌐 [francescobigi.com](https://francescobigi.com)
 
 </td>
 <td width="50%" valign="top">
@@ -126,15 +128,13 @@ The site uses a headless CMS workflow so content can be managed independently fr
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 francescobigi.com
+### 🛠️ IT Support Console
 
-My personal portfolio and project showcase.
+A PowerShell 5.1 WinForms application designed for enterprise IT support workflows.
 
-Built as a modern React application with reusable UI components and a maintainable deployment workflow.
+It brings together user, group, mailing-list, shared-mailbox, computer and printer information through LDAP/WMI, with a modular MVC-style architecture, test tooling and controlled administrative actions.
 
-**Stack:** React · TypeScript · Vite · Tailwind CSS · shadcn/ui
-
-🌐 [francescobigi.com](https://francescobigi.com)
+**Focus:** PowerShell · Active Directory · LDAP · WinForms · WMI
 
 </td>
 <td width="50%" valign="top">
