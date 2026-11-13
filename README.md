@@ -194,4 +194,4 @@ A collection of earlier projects exploring voting-system architecture across bac
 ## 🌍 Live Web Projects
 
 ♟️ [europchess.eu](https://europchess.eu)  
-🌍 [afriklitt.com](https://afriklitt.com) *(Coming soon)*
+🌍 [afriklitt.com](https://afriklitt.com)
