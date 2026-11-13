@@ -118,7 +118,7 @@ The site uses a headless CMS workflow so content can be managed independently fr
 
 **Stack:** Astro · TypeScript · Sanity CMS · Netlify
 
-🌐 [Visit afriklitt.com](https://afriklitt.com)
+🌐 [afriklitt.com](https://afriklitt.com)
 
 </td>
 </tr>
